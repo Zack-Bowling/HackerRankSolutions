@@ -11,7 +11,7 @@ This repository contains my personal solutions to a variety of coding challenges
 
 ---
 
-## 🚨 Disclaimer
+## Disclaimer
 
 All solutions in this repo are written **by me** as part of my learning and problem-solving practice.  
 These are **not official** solutions and may differ in approach from others. Feel free to use them for reference, but **please don’t copy and paste** blindly—try solving them yourself first!
